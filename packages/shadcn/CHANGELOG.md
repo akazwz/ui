@@ -1,5 +1,11 @@
 # @shadcn/ui
 
+## 4.3.2
+
+### Patch Changes
+
+- [`9c572ab778b5a0ab42693eb07bc4a75d0c24603e`](https://github.com/shadcn-ui/ui/commit/9c572ab778b5a0ab42693eb07bc4a75d0c24603e) Thanks [@shadcn](https://github.com/shadcn)! - fix chartColor in presets
+
 ## 4.3.1
 
 ### Patch Changes
